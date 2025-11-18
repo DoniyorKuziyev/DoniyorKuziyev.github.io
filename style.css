@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    height: auto;
+    background-color:#c1b19d;
+}
+
+img{
+    width:100px;
+    height:100px;
+}
+
+p{
+    font-family: Bahnschrift;
+}
+
+h1{
+    font-family: Century Gothic;
+}
+
+h3{
+    font-family: Century Gothic;
+}
+
+ol li{
+    font-family: Bahnschrift;
+    color: rgb(3, 83, 3);
+}
+
+ul li{
+    font-family: Bahnschrift;
+    color: rgb(3, 83, 3);
+}
